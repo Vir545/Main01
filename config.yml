@@ -1,1 +1,20 @@
+# *   Main01 - Config - version 1.0.0
+
+# !!! Please don't change config.yml, new config are saving custom_config.yml
+# ?     config.yml Will be currently reset every Restart or reload.
+# ++    Please wait for newer build.
+
 settings:
+  welcomeMessage: "&aWelcome to the server!"
+  quitMessage: "&2has left the game....."
+  max-homes: 5
+  ID: 0
+  startingItems:
+    - BREAD
+    - STONE_PICKAXE
+kits:
+  test:
+    - STONE_SWORD
+    - APPLE
+  test02:
+    - SUGAR
