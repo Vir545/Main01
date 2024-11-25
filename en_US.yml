@@ -1,1 +1,3 @@
 # en_US.yml
+greeting: "Hello!"
+farewell: "Goodbye!"
