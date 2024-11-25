@@ -16,5 +16,5 @@ kits:
   test:
     - STONE_SWORD
     - APPLE
-  test02:
+  test05:
     - SUGAR
