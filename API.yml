@@ -1,5 +1,5 @@
 # *   Config version 1.0.0
 
 settings:
-  version: "1.2.3"
-  build: "B102"
+  version: 1.2.3
+  build: B123
