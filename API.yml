@@ -1,3 +1,4 @@
 settings:
   version: "1.0.0"
   build: "B128"
+  alpha: "A1030"
